@@ -1,99 +1,64 @@
-# Pink-Spider
- 
-<h1 align="center">Welcome to Pink Spider👋</h1>
+<div align="center">
 
-<p align="center">
-  Passionate about building metabus systems, fin tech & AI, exploring new technologies, and collaborating in open-source.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=Pink%20Spider&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%" alt="Pink Spider Header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pink-Spider&label=Profile+views" alt="Pink Spider" />
-  <a href="https://pink-spider.github.io"><img src="https://img.shields.io/badge/Blog-%23FFA500.svg?style=flat&logo=blogger&logoColor=white"/></a>
-  <a href="mailto:ceo@pink-spider.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+<br/>
 
----
+## 👋 Welcome to Pink-Spider Hub!
 
-### 💼 Organizations
-- 🔧 [Pink Spider](https://github.com/Pink-Spider) — Using Actual My Official Repository
-- 📦 [Level Up Together](https://github.com/Level-Up-Together) — Private Side Project, Dev Leader
+**Pink-Spider**는 저의 **유튜브(YouTube)**와 **블로그(Blog)** 콘텐츠를 위한<br/>
+소스 코드 저장소이자 개인 프로젝트 아카이브입니다.
 
----
+영상을 보시거나 글을 읽으시다가 궁금한 코드가 있다면 편하게 찾아보세요!
 
-### 💻 Tech Stack
+<br/>
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<a href="https://youtube.com/@본인아이디">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://pink-spider.github.io">
+  <img src="https://img.shields.io/badge/Github-Page-9766B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/dev-minimalism">
+  <img src="https://img.shields.io/badge/Github-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Frameworks & Tools**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+<br/><br/>
 
----
-### 👥 Organization Contributions
-
-- 🔧 [Pink-Spider](https://github.com/Pink-Spider) – Core member  
-  → 주요 기여: `infra`, `auth`, `gateway`, `docs`  
-  ![Pink-Spider](https://img.shields.io/github/stars/Level-Up-Together/level-up-together-bff?label=level-up-together-bff&style=social)
-
-- 🔧 [Level-Up-Together](https://github.com/Level-Up-Together) – Core member  
-  → 주요 기여: `infra`, `auth`, `gateway`, `docs`  
-  ![Level-Up-Together Repo1](https://img.shields.io/github/stars/Level-Up-Together/level-up-together-bff?label=level-up-together-bff&style=social)
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-minimalism&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minimalism&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
-<!--
-### 🕸️ Snake Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-> 🐍 이 애니메이션은 GitHub Actions로 자동 생성됩니다. 설치 방법도 알려드릴게요!
--->
----
-
-<!--### ⏱️ Weekly Coding Stats (via Wakatime)-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+</div>
 
 ---
 
-### 📝 Blog
+### 📂 Repository Navigation
 
-- 🔗 [pink-spider.github.io](https://pink-spider.github.io/)
+원하시는 프로젝트 카테고리를 확인하세요.
 
----
+| **🎬 YouTube Contents**                                                                        | **📝 Blog Tutorials**                                                                  | **🚀 Personal Projects**                                                               |
+|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
+| 유튜브 영상에서 다룬<br/>실습 예제 코드들입니다.                                                                  | 블로그 포스팅에 사용된<br/>기술 설명 및 예제입니다.                                                        | 개인적으로 진행하는<br/>토이 프로젝트 및 서비스입니다.                                                       |
+| 🔹 [영상 제목 1 소스코드](레포지토리_링크)<br/>🔹 [영상 제목 2 소스코드](레포지토리_링크)<br/>🔹 [재생목록: Python 기초](레포지토리_링크) | 🔸 [Spring Boot 입문](레포지토리_링크)<br/>🔸 [React 배포하기](레포지토리_링크)<br/>🔸 [알고리즘 풀이](레포지토리_링크) | 🚀 [Pink-Spider 웹사이트](레포지토리_링크)<br/>🛠️ [자동화 봇 만들기](레포지토리_링크)<br/>🎨 [포트폴리오](레포지토리_링크) |
 
-### 🔍 Interests
-
-- Spring Ecosystem
-- MSA and Event-Driven Architecture
-- Backend Optimization & Observability
-- Frontend-Backend Integration (Next.js + Spring)
-- DevOps / Infra Tools (Docker, GitHub Actions, etc)
+<br/>
 
 ---
 
-### 🤝 Let's connect!
+### 🛠️ Tech Stack & Tools
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yungoo-park-0b018b35a/)
-- 💬 Ask me about Spring Boot, Kafka, or anything related to metabus systems!
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <p>👀 <b>Contact & Support</b></p>
+  <p>코드에 대한 질문은 이슈(Issue)에 남겨주시거나 이메일로 연락 주세요.</p>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-pink?style=flat-square&logo=gmail&logoColor=white"/>
+</div>
