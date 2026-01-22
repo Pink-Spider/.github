@@ -29,14 +29,13 @@
 
 ---
 
-### 📂 Repository Navigation
+### 📂 Recent Repositories
 
-원하시는 프로젝트 카테고리를 확인하세요.
-
-| **🎬 YouTube Contents**                                                                        | **📝 Blog Tutorials**                                                                  | **🚀 Personal Projects**                                                               |
-|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
-| 유튜브 영상에서 다룬<br/>실습 예제 코드들입니다.                                                                  | 블로그 포스팅에 사용된<br/>기술 설명 및 예제입니다.                                                        | 개인적으로 진행하는<br/>토이 프로젝트 및 서비스입니다.                                                       |
-|  |  | |
+<!-- REPOS_START -->
+| Repository | Description | Updated |
+|:-----------|:------------|:--------|
+| *자동 업데이트 대기 중...* | | |
+<!-- REPOS_END -->
 
 <br/>
 
@@ -61,11 +60,11 @@
 <!--<p align="center">
     <img src="https://github-readme-stats-zeta-dusky-53.vercel.app/api?username=dev-minimalism&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150"/>
     <img src="https://github-readme-stats-zeta-dusky-53.vercel.app/api/top-langs/?username=dev-minimalism&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
-</p>-->
+</p>
 
 <p align="center">
     <img src="../github-metrics.svg" alt="GitHub Metrics" />
-</p>
+</p>-->
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-minimalism&theme=github-dark&hide_border=true" alt="Activity Graph" />
