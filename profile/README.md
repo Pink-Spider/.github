@@ -34,7 +34,7 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 2주 전 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 오늘 |
 | [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | - | 1개월 전 |
 | [gitlab-commit-statistics](https://github.com/Pink-Spider/gitlab-commit-statistics) | - | 2개월 전 |
 | [mp3-auto-organizer](https://github.com/Pink-Spider/mp3-auto-organizer) | - | 2개월 전 |
