@@ -37,7 +37,7 @@
 | [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 2주 전 |
 | [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | - | 2개월 전 |
 | [gitlab-commit-statistics](https://github.com/Pink-Spider/gitlab-commit-statistics) | - | 2개월 전 |
-| [mp3-auto-organizer](https://github.com/Pink-Spider/mp3-auto-organizer) | - | 2개월 전 |
+| [mp3-auto-organizer](https://github.com/Pink-Spider/mp3-auto-organizer) | - | 3개월 전 |
 | [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | - | 3개월 전 |
 <!-- REPOS_END -->
 
