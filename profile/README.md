@@ -34,11 +34,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [github-statstics](https://github.com/Pink-Spider/github-statstics) | - | 2일 전 |
+| [github-statstics](https://github.com/Pink-Spider/github-statstics) | - | 3일 전 |
 | [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 1개월 전 |
 | [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | - | 3개월 전 |
 | [gitlab-commit-statistics](https://github.com/Pink-Spider/gitlab-commit-statistics) | - | 3개월 전 |
-| [mp3-auto-organizer](https://github.com/Pink-Spider/mp3-auto-organizer) | - | 3개월 전 |
+| [mp3-auto-organizer](https://github.com/Pink-Spider/mp3-auto-organizer) | - | 4개월 전 |
 <!-- REPOS_END -->
 
 <br/>
