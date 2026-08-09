@@ -34,8 +34,8 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 오늘 |
-| [timesheet](https://github.com/Pink-Spider/timesheet) | - | 오늘 |
+| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 어제 |
+| [timesheet](https://github.com/Pink-Spider/timesheet) | - | 어제 |
 | [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 3주 전 |
 | [github-statstics](https://github.com/Pink-Spider/github-statstics) | - | 4개월 전 |
 | [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | - | 7개월 전 |
