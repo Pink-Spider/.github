@@ -6,16 +6,13 @@
 
 ## 👋 Welcome to Pink-Spider Hub!
 
-**Pink-Spider**는 저의 **유튜브(YouTube)**와 **블로그(Blog)** 콘텐츠를 위한<br/>
-소스 코드 저장소이자 개인 프로젝트 아카이브입니다.
-
-영상을 보시거나 글을 읽으시다가 궁금한 코드가 있다면 편하게 찾아보세요!
+**Pink-Spider**는 저의 개인 프로젝트 아카이브입니다.
 
 <br/>
 
-<a href="https://youtube.com/@본인아이디">
+<!-- <a href="https://youtube.com/@본인아이디">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+</a> -->
 <a href="https://pink-spider.github.io">
   <img src="https://img.shields.io/badge/Github-Page-9766B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
