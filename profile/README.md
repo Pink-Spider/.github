@@ -31,9 +31,9 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 오늘 |
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 오늘 |
-| [hindsight](https://github.com/Pink-Spider/hindsight) | - | 1주 전 |
+| [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 어제 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 어제 |
+| [hindsight](https://github.com/Pink-Spider/hindsight) | - | 2주 전 |
 | [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 2주 전 |
 | [github-statstics](https://github.com/Pink-Spider/github-statstics) | - | 5개월 전 |
 <!-- REPOS_END -->
