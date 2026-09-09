@@ -31,11 +31,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 어제 |
-| [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 5일 전 |
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 5일 전 |
+| [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 오늘 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 2일 전 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 6일 전 |
 | [hindsight](https://github.com/Pink-Spider/hindsight) | - | 2주 전 |
-| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 2주 전 |
+| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 3주 전 |
 <!-- REPOS_END -->
 
 <br/>
