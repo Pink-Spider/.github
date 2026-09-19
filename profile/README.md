@@ -31,8 +31,8 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | - | 오늘 |
-| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | - | 2일 전 |
+| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | - | 어제 |
+| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | - | 3일 전 |
 | [sudoku-privacy](https://github.com/Pink-Spider/sudoku-privacy) | - | 1주 전 |
 | [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 1주 전 |
 | [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 1주 전 |
