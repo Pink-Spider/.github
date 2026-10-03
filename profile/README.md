@@ -32,8 +32,8 @@
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
 | [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | - | 오늘 |
-| [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 오늘 |
-| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 오늘 |
+| [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 어제 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 어제 |
 | [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | - | 2주 전 |
 | [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | - | 2주 전 |
 <!-- REPOS_END -->
