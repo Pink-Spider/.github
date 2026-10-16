@@ -4,10 +4,10 @@
 
 <br/>
 
-## 👋 Welcome to Pink-Spider Hub!
+## 👋 Welcome to Pink Spider
 
-**Pink-Spider**는 [Yungoo Park (@dev-minimalism)](https://github.com/dev-minimalism)의 개인 프로젝트 아카이브입니다.<br/>
-Spring 기반 백엔드 템플릿과 예제, Flutter 모바일 앱, 개발 자동화 스크립트, 그리고 기술 블로그를 모아 둡니다.
+**Pink Spider**는 모바일 앱과 백엔드 소프트웨어를 만드는 소프트웨어 회사입니다.<br/>
+직접 출시한 앱과 함께, 개발 과정에서 만든 Spring Boot 템플릿·예제와 자동화 도구를 오픈소스로 공개하고 기술 블로그에 기록을 남깁니다.
 
 <i>답을 찾을 것이다. 늘 그랬듯이...</i>
 
@@ -15,9 +15,6 @@ Spring 기반 백엔드 템플릿과 예제, Flutter 모바일 앱, 개발 자�
 
 <a href="https://pink-spider.github.io">
   <img src="https://img.shields.io/badge/Tech_Blog-pink--spider.github.io-9766B6?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog"/>
-</a>
-<a href="https://github.com/dev-minimalism">
-  <img src="https://img.shields.io/badge/GitHub-dev--minimalism-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <a href="mailto:ceo@pink-spider.io">
   <img src="https://img.shields.io/badge/Email-ceo@pink--spider.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -47,7 +44,7 @@ Spring 기반 백엔드 템플릿과 예제, Flutter 모바일 앱, 개발 자�
 
 ### 🚀 Projects
 
-#### 📱 Apps
+#### 📱 Products
 
 | 프로젝트 | 설명 |
 |:--|:--|
@@ -55,7 +52,7 @@ Spring 기반 백엔드 템플릿과 예제, Flutter 모바일 앱, 개발 자�
 | [**출퇴근기록장 Timesheet**](https://github.com/Pink-Spider/timesheet) | 100% 오프라인으로 동작하는 출퇴근 기록 앱 (Flutter, Android/iOS) |
 | [**Chainwell**](https://github.com/Pink-Spider/chainwell-app) | 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor) |
 
-#### ☕ Spring Boot
+#### ☕ Spring Boot Templates & Examples
 
 | 프로젝트 | 설명 |
 |:--|:--|
@@ -75,11 +72,11 @@ Spring 기반 백엔드 템플릿과 예제, Flutter 모바일 앱, 개발 자�
 | [mp3-auto-organizer](https://github.com/Pink-Spider/mp3-auto-organizer) | 오디오 핑거프린팅(AcoustID)으로 MP3 태그·폴더·파일명 자동 정리 |
 | [hindsight](https://github.com/Pink-Spider/hindsight) | 주식 수익률을 라인 레이스 애니메이션으로 렌더링해 YouTube Shorts로 발행 (Python + Remotion) |
 
-#### ✍️ Writing
+#### ✍️ Publications
 
 | 프로젝트 | 설명 |
 |:--|:--|
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | 기술 블로그 (Hugo) — Spring, MSA, Kafka, AI 도구 활용 등 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | Pink Spider 기술 블로그 (Hugo) — Spring, MSA, Kafka, AI 도구 활용 등 |
 | [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | 『Claude Code와 함께하는 MSA 풀스택 개발』(가제) 원고와 실습 코드 |
 
 <br/>
@@ -106,22 +103,9 @@ Spring 기반 백엔드 템플릿과 예제, Flutter 모바일 앱, 개발 자�
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-minimalism&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minimalism&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-    <img src="https://ghchart.rshah.org/22863a/dev-minimalism" alt="GitHub Contributions" />
-</p>
-
----
-
 <div align="center">
   <p>👀 <b>Contact & Support</b></p>
-  <p>코드에 대한 질문은 각 저장소의 이슈(Issue)에 남겨주시거나 이메일로 연락 주세요.</p>
+  <p>협업·제휴·앱 관련 문의는 이메일로, 공개 저장소의 코드 질문은 해당 저장소의 이슈(Issue)로 남겨주세요.</p>
   <a href="mailto:ceo@pink-spider.io">
     <img src="https://img.shields.io/badge/Email-ceo@pink--spider.io-pink?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
