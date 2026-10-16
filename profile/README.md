@@ -31,11 +31,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 오늘 |
+| [firedom](https://github.com/Pink-Spider/firedom) | - | 오늘 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | - | 어제 |
 | [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | - | 1주 전 |
 | [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 1주 전 |
-| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 1주 전 |
-| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | - | 3주 전 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침 | 2주 전 |
 <!-- REPOS_END -->
 
 <br/>
