@@ -101,6 +101,14 @@
 
 ---
 
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pink-Spider/.github/main/github-metrics.svg" alt="Pink Spider GitHub Metrics" />
+</p>
+
+---
+
 <div align="center">
   <p>👀 <b>Contact & Support</b></p>
   <p>협업·제휴·앱 관련 문의는 이메일로, 공개 저장소의 코드 질문은 해당 저장소의 이슈(Issue)로 남겨주세요.</p>
