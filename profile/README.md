@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | DDD(도메인 주도 설계) 계층 구조를 적용한 Spring Boot 프로젝트 스켈레톤 | 오늘 |
-| [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 오늘 |
-| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 오늘 |
-| [springboot-jwt-template](https://github.com/Pink-Spider/springboot-jwt-template) | JWT 인증(Spring Security)을 갖춘 Spring Boot 프로젝트 템플릿 | 오늘 |
-| [springboot-restdoc-swagger-ui-example](https://github.com/Pink-Spider/springboot-restdoc-swagger-ui-example) | Spring REST Docs 테스트로 OpenAPI 3 스펙을 생성해 Swagger UI로 보여주는 예제 (restdocs-api-spec + springdoc) | 오늘 |
+| [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | DDD(도메인 주도 설계) 계층 구조를 적용한 Spring Boot 프로젝트 스켈레톤 | 어제 |
+| [timesheet](https://github.com/Pink-Spider/timesheet) | 출퇴근기록장 — 100% 오프라인 출퇴근 기록 Flutter 앱 (Android/iOS) | 어제 |
+| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 어제 |
+| [springboot-jwt-template](https://github.com/Pink-Spider/springboot-jwt-template) | JWT 인증(Spring Security)을 갖춘 Spring Boot 프로젝트 템플릿 | 어제 |
+| [springboot-restdoc-swagger-ui-example](https://github.com/Pink-Spider/springboot-restdoc-swagger-ui-example) | Spring REST Docs 테스트로 OpenAPI 3 스펙을 생성해 Swagger UI로 보여주는 예제 (restdocs-api-spec + springdoc) | 어제 |
 <!-- REPOS_END -->
 
 <br/>
