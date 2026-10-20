@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 오늘 |
-| [springboot-event-demo](https://github.com/Pink-Spider/springboot-event-demo) | Spring ApplicationEventPublisher로 동기·비동기·트랜잭션 커밋 후 리스너를 보여주는 이벤트 기반 아키텍처 예제 | 오늘 |
-| [springboot-restdoc-swagger-ui-example](https://github.com/Pink-Spider/springboot-restdoc-swagger-ui-example) | Spring REST Docs 테스트로 OpenAPI 3 스펙을 생성해 Swagger UI로 보여주는 예제 (restdocs-api-spec + springdoc) | 오늘 |
-| [springboot-jwt-template](https://github.com/Pink-Spider/springboot-jwt-template) | JWT 인증(Spring Security)을 갖춘 Spring Boot 프로젝트 템플릿 | 오늘 |
-| [sudoku-app](https://github.com/Pink-Spider/sudoku-app) | Sudoku Daily — AdMob 광고 기반 글로벌 스도쿠 앱. 공통 퍼즐 엔진 + 룰 패키지 구조의 퍼즐 앱 팩토리 1호 (Flutter, Dart pub workspace) | 오늘 |
+| [springboot-slack-slash-command-example](https://github.com/Pink-Spider/springboot-slack-slash-command-example) | Slack Slash Command(/hello)를 처리하는 Spring Boot 3.5 예제 (Java 24, Slack API Client) | 오늘 |
+| [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | DDD(도메인 주도 설계) 계층 구조를 적용한 Spring Boot 프로젝트 스켈레톤 | 오늘 |
+| [sudoku-privacy](https://github.com/Pink-Spider/sudoku-privacy) | Sudoku Daily(io.pinkspider.sudoku) 개인정보 처리방침 (ko·en, GitHub Pages) | 오늘 |
+| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 오늘 |
+| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | 『Claude Code와 함께하는 MSA 풀스택 개발 — 바이브 코딩으로 배달 플랫폼 만들기』(가제) 원고와 실습 코드 | 오늘 |
 <!-- REPOS_END -->
 
 <br/>
