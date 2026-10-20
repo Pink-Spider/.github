@@ -1,5 +1,8 @@
 # Pink-Spider/.github
 
+[![Metrics](https://img.shields.io/github/actions/workflow/status/Pink-Spider/.github/metrics.yml?label=Metrics&logo=githubactions&logoColor=white)](https://github.com/Pink-Spider/.github/actions/workflows/metrics.yml)
+[![Update README](https://img.shields.io/github/actions/workflow/status/Pink-Spider/.github/update-readme.yml?label=Update%20README&logo=githubactions&logoColor=white)](https://github.com/Pink-Spider/.github/actions/workflows/update-readme.yml)
+
 [Pink Spider](https://github.com/Pink-Spider)의 GitHub 조직 프로필과 활동 메트릭을 관리하는 저장소입니다.
 
 조직 메인 페이지(<https://github.com/Pink-Spider>)에 보이는 내용은 `profile/README.md`에서 가져오며,
