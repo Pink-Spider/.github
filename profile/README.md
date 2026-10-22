@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [springboot-slack-slash-command-example](https://github.com/Pink-Spider/springboot-slack-slash-command-example) | Slack Slash Command(/hello)를 처리하는 Spring Boot 3.5 예제 (Java 24, Slack API Client) | 어제 |
-| [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | DDD(도메인 주도 설계) 계층 구조를 적용한 Spring Boot 프로젝트 스켈레톤 | 어제 |
-| [sudoku-privacy](https://github.com/Pink-Spider/sudoku-privacy) | Sudoku Daily(io.pinkspider.sudoku) 개인정보 처리방침 (ko·en, GitHub Pages) | 어제 |
-| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 어제 |
-| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | 『Claude Code와 함께하는 MSA 풀스택 개발 — 바이브 코딩으로 배달 플랫폼 만들기』(가제) 원고와 실습 코드 | 어제 |
+| [springboot-slack-slash-command-example](https://github.com/Pink-Spider/springboot-slack-slash-command-example) | Slack Slash Command(/hello)를 처리하는 Spring Boot 3.5 예제 (Java 24, Slack API Client) | 2일 전 |
+| [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | DDD(도메인 주도 설계) 계층 구조를 적용한 Spring Boot 프로젝트 스켈레톤 | 2일 전 |
+| [sudoku-privacy](https://github.com/Pink-Spider/sudoku-privacy) | Sudoku Daily(io.pinkspider.sudoku) 개인정보 처리방침 (ko·en, GitHub Pages) | 2일 전 |
+| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 2일 전 |
+| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | 『Claude Code와 함께하는 MSA 풀스택 개발 — 바이브 코딩으로 배달 플랫폼 만들기』(가제) 원고와 실습 코드 | 2일 전 |
 <!-- REPOS_END -->
 
 <br/>
