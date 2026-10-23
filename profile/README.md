@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [springboot-slack-slash-command-example](https://github.com/Pink-Spider/springboot-slack-slash-command-example) | Slack Slash Command(/hello)를 처리하는 Spring Boot 3.5 예제 (Java 24, Slack API Client) | 2일 전 |
-| [springboot-DDD-skeleton](https://github.com/Pink-Spider/springboot-DDD-skeleton) | DDD(도메인 주도 설계) 계층 구조를 적용한 Spring Boot 프로젝트 스켈레톤 | 2일 전 |
-| [sudoku-privacy](https://github.com/Pink-Spider/sudoku-privacy) | Sudoku Daily(io.pinkspider.sudoku) 개인정보 처리방침 (ko·en, GitHub Pages) | 2일 전 |
-| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 2일 전 |
-| [MSA-with-Claude-Code](https://github.com/Pink-Spider/MSA-with-Claude-Code) | 『Claude Code와 함께하는 MSA 풀스택 개발 — 바이브 코딩으로 배달 플랫폼 만들기』(가제) 원고와 실습 코드 | 2일 전 |
+| [hindsight](https://github.com/Pink-Spider/hindsight) | 주식 수익률 변동을 세로형 라인 레이스 애니메이션으로 만들어 YouTube Shorts로 발행하는 로컬 툴 (Python 수집기 + Remotion 렌더러) | 오늘 |
+| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 오늘 |
+| [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | gitleaks 기반 git 저장소 시크릿 스캔 셸 스크립트 (전체 이력·빠른 스캔) | 오늘 |
+| [github-statstics](https://github.com/Pink-Spider/github-statstics) | GitHub 활동 내역(커밋·PR·이슈·리뷰) 집계 → 인사평가 첨부용 Markdown 보고서 생성 (gh CLI, private 저장소·브랜치별 지원) | 오늘 |
+| [gitlab-commit-statistics](https://github.com/Pink-Spider/gitlab-commit-statistics) | GitLab에서 특정 사용자의 기간별 커밋 수를 집계하는 Python 스크립트 (python-gitlab) | 오늘 |
 <!-- REPOS_END -->
 
 <br/>
