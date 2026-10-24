@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [hindsight](https://github.com/Pink-Spider/hindsight) | 주식 수익률 변동을 세로형 라인 레이스 애니메이션으로 만들어 YouTube Shorts로 발행하는 로컬 툴 (Python 수집기 + Remotion 렌더러) | 오늘 |
-| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 오늘 |
 | [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | gitleaks 기반 git 저장소 시크릿 스캔 셸 스크립트 (전체 이력·빠른 스캔) | 오늘 |
-| [github-statstics](https://github.com/Pink-Spider/github-statstics) | GitHub 활동 내역(커밋·PR·이슈·리뷰) 집계 → 인사평가 첨부용 Markdown 보고서 생성 (gh CLI, private 저장소·브랜치별 지원) | 오늘 |
-| [gitlab-commit-statistics](https://github.com/Pink-Spider/gitlab-commit-statistics) | GitLab에서 특정 사용자의 기간별 커밋 수를 집계하는 Python 스크립트 (python-gitlab) | 오늘 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | Pink Spider 기술 블로그 — Hugo 빌드 결과물 (소스는 blog 저장소) | 오늘 |
+| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 오늘 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 오늘 |
+| [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 오늘 |
 <!-- REPOS_END -->
 
 <br/>
