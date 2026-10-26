@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | gitleaks 기반 git 저장소 시크릿 스캔 셸 스크립트 (전체 이력·빠른 스캔) | 어제 |
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | Pink Spider 기술 블로그 — Hugo 빌드 결과물 (소스는 blog 저장소) | 어제 |
-| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 어제 |
-| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 어제 |
-| [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 어제 |
+| [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | gitleaks 기반 git 저장소 시크릿 스캔 셸 스크립트 (전체 이력·빠른 스캔) | 2일 전 |
+| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | Pink Spider 기술 블로그 — Hugo 빌드 결과물 (소스는 blog 저장소) | 2일 전 |
+| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 2일 전 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 2일 전 |
+| [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 2일 전 |
 <!-- REPOS_END -->
 
 <br/>
