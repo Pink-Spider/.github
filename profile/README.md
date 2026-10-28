@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [git-scan-secrets](https://github.com/Pink-Spider/git-scan-secrets) | gitleaks 기반 git 저장소 시크릿 스캔 셸 스크립트 (전체 이력·빠른 스캔) | 3일 전 |
-| [pink-spider.github.io](https://github.com/Pink-Spider/pink-spider.github.io) | Pink Spider 기술 블로그 — Hugo 빌드 결과물 (소스는 blog 저장소) | 3일 전 |
-| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 3일 전 |
-| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 3일 전 |
-| [chainwell-privacy](https://github.com/Pink-Spider/chainwell-privacy) | Privacy policy for Chainwell: Chain Block Puzzle | 3일 전 |
+| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 오늘 |
+| [nonogram-app](https://github.com/Pink-Spider/nonogram-app) | Nonogram Daily — AdMob 광고 기반 노노그램(피크로스) 앱. sudoku-app의 퍼즐 엔진·코어를 공유하는 퍼즐 앱 팩토리 2호 (Flutter) | 오늘 |
+| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 오늘 |
+| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 오늘 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 오늘 |
 <!-- REPOS_END -->
 
 <br/>
