@@ -29,11 +29,11 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 어제 |
-| [nonogram-app](https://github.com/Pink-Spider/nonogram-app) | Nonogram Daily — AdMob 광고 기반 노노그램(피크로스) 앱. sudoku-app의 퍼즐 엔진·코어를 공유하는 퍼즐 앱 팩토리 2호 (Flutter) | 어제 |
-| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 어제 |
-| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 어제 |
-| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 어제 |
+| [chainwell-app](https://github.com/Pink-Spider/chainwell-app) | Chainwell — 줄 소거와 색 소거를 섞은 낙하 블록 퍼즐 로그라이크 (Phaser 4 + Capacitor, iOS/Android, pnpm 모노레포) | 2일 전 |
+| [nonogram-app](https://github.com/Pink-Spider/nonogram-app) | Nonogram Daily — AdMob 광고 기반 노노그램(피크로스) 앱. sudoku-app의 퍼즐 엔진·코어를 공유하는 퍼즐 앱 팩토리 2호 (Flutter) | 2일 전 |
+| [timesheet-privacy](https://github.com/Pink-Spider/timesheet-privacy) | 출퇴근기록장 앱 개인정보처리방침 | 2일 전 |
+| [nonogram-privacy](https://github.com/Pink-Spider/nonogram-privacy) | Nonogram Daily(io.pinkspider.nonogram) 개인정보 처리방침 (GitHub Pages) | 2일 전 |
+| [firedom-privacy](https://github.com/Pink-Spider/firedom-privacy) | 파이어덤(Firedom) 개인정보 처리방침·지원 페이지 (ko·en·ja, GitHub Pages) | 2일 전 |
 <!-- REPOS_END -->
 
 <br/>
